@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="NationalParks.xsd">
-<!-- 1-->
-	<NationalPark Rating="4.8">
+<NationalPark Rating="4.8">
 		<Name>Grand Canyon National Park</Name>
 		<Phone>307-344-7381</Phone>
 		<Phone>928-638-7888</Phone>
@@ -13,20 +12,18 @@
 			<Zip>86023</Zip>
 		</Address>
 	</NationalPark>
-<!-- 2-->
-	<NationalPark Rating="4.8">
+<NationalPark Rating="4.8">
 		<Name>Tonto National Forest</Name>
 		<Phone>602-225-5200</Phone>
 		<Address NearestAirport="Phoenix esa Gateway Airport">
 			<Number>0</Number>
-			<Street>None</Street>
+			<Street>Unknown</Street>
 			<City>Chandler</City>
 			<State>AZ</State>
 			<Zip>85224</Zip>
 		</Address>
 	</NationalPark>
-<!--3-->
-	<NationalPark Rating="4.7">
+<NationalPark Rating="4.7">
 		<Name>Papago Park</Name>
 		<Phone>602-495-5458</Phone>
 		<Address NearestAirport="Phoenix Airport">
@@ -37,8 +34,7 @@
 			<Zip>85008</Zip>
 		</Address>
 	</NationalPark>
-<!--4-->
-	<NationalPark Rating="4.7">
+<NationalPark Rating="4.7">
 		<Name>Casa Grande Ruins National Monument</Name>
 		<Phone>520-723-3172</Phone>
 		<Address NearestAirport="Phoenix Sky Harbor International Airport">
@@ -49,32 +45,29 @@
 			<Zip>85128</Zip>
 		</Address>
 	</NationalPark>
-<!--5-->
-	<NationalPark Rating="4.5">
+<NationalPark Rating="4.5">
 		<Name>Sonoran Desert National Monument</Name>
 		<Phone>602-867-5400</Phone>
 		<Address NearestAirport="Phoenix">
 			<Number>0</Number>
-			<Street>None</Street>
+			<Street>Unknown</Street>
 			<City>Maricopa</City>
 			<State>AZ</State>
 			<Zip>85239</Zip>
 		</Address>
 	</NationalPark>
-<!--6-->
-	<NationalPark Rating="4.8">
+<NationalPark Rating="4.8">
 		<Name>Saguaro National Park</Name>
 		<Phone>520-733-5153</Phone>
 		<Address NearestAirport="Tucson Airport">
-			<Number>None</Number>
-			<Street>None</Street>
-			<City>None</City>
+			<Number>0</Number>
+			<Street>Unknown</Street>
+			<City>Tucson</City>
 			<State>AZ</State>
-			<Zip>None</Zip>
+			<Zip>85730</Zip>
 		</Address>
 	</NationalPark>
-<!--7-->
-	<NationalPark Rating="4.8">
+<NationalPark Rating="4.8">
 		<Name>Riparian Preserve at Water Ranch</Name>
 		<Phone>480-503-6200</Phone>
 		<Address NearestAirport="Falcon Field Airport">
@@ -85,20 +78,18 @@
 			<Zip>85234</Zip>
 		</Address>
 	</NationalPark>
-<!--8-->
-	<NationalPark Rating="4.6">
+<NationalPark Rating="4.6">
 		<Name>Coon Bluff Recreation Area</Name>
 		<Phone>480-610-3300</Phone>
 		<Address NearestAirport="Falcon Field Airport">
-			<Number>None</Number>
+			<Number>0</Number>
 			<Street>Coon Bluff Rd</Street>
 			<City>Mesa</City>
 			<State>AZ</State>
 			<Zip>85215</Zip>
 		</Address>
 	</NationalPark>
-<!--9-->
-	<NationalPark Rating="4.8">
+<NationalPark Rating="4.8">
 		<Name>Echo Canyon Recreation Area</Name>
 		<Phone>602-261-8318</Phone>
 		<Address NearestAirport="Phoenix Sky Harbor International Airport">
@@ -109,9 +100,8 @@
 			<Zip>85018</Zip>
 		</Address>
 	</NationalPark>
-<!--10-->
-	<NationalPark Rating="4.8">
-		<Name>CSouth Mountain Park and Preserve</Name>
+<NationalPark Rating="4.8">
+		<Name>South Mountain Park and Preserve</Name>
 		<Phone>602-495-5458</Phone>
 		<Address NearestAirport="Phoenix Sky Harbor International Airport">
 			<Number>10919</Number>
